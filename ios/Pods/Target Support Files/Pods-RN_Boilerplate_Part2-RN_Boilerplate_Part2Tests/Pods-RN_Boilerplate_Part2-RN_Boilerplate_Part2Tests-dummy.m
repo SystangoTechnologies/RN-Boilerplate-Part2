@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_RN_Boilerplate_Part2_RN_Boilerplate_Part2Tests : NSObject
+@end
+@implementation PodsDummy_Pods_RN_Boilerplate_Part2_RN_Boilerplate_Part2Tests
+@end
